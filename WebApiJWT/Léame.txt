@@ -1,0 +1,1 @@
+﻿Basado en el tutorial "https://www.rafaelacosta.net/Blog/2019/5/20/json-web-token-seguridad-en-servicios-web-api-de-net-core".
